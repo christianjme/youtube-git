@@ -1,0 +1,98 @@
+commit fc32cfe2a1b7aab831192ac1c7d4d39c78baecb2
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Tue Aug 23 05:46:56 2022 -0500
+
+    Agregando 2 parrafos
+
+commit 8e633b98d3b53ef9c9e8baa1bdc769fe20a25168
+Merge: e08b330 2debbda
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Tue Aug 23 05:41:49 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit e08b33003137b72c487eecf2420ad480c04124a1
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Tue Aug 23 05:27:19 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 2debbda077137918c6912b7f009e2e4b5b5ea86a
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Tue Aug 23 05:27:19 2022 -0500
+
+    Agregando estaciones del año
+
+commit e7d259855354a5af98b47146f279d8c5db6c422b
+Merge: a4e88d5 97ea72f
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Mon Aug 22 22:28:01 2022 -0500
+
+    Resolviendo conflictos merge main/html en el documento index.html
+
+commit 97ea72fd4f6e888ff1fa2fad585f456c87b87755
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Mon Aug 22 22:23:00 2022 -0500
+
+    Agregando index.js al index.html
+
+commit a4e88d5f9e906a3de9f21ccaa2a8667e2c5f27db
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Mon Aug 22 22:21:25 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 5a9dec2f98cb2f8e59ff8bab518a244a3c08c7c7
+Merge: 074f9d2 eafb0bb
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Mon Aug 22 22:07:58 2022 -0500
+
+    Merge branch 'js'
+
+commit eafb0bbbe00837b6b76bfa30ab3fa117173a80a1
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Mon Aug 22 21:59:09 2022 -0500
+
+    creando index.js
+
+commit 074f9d259fb56a49ee8066c5257edf30835d0385
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Mon Aug 22 21:55:06 2022 -0500
+
+    creando style.css
+
+commit 54e32020bfaeeff704f778f4421d52a1b6d1ec66
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Mon Aug 22 21:51:07 2022 -0500
+
+    Creando archivo index.html
+
+commit 3c7f2eaae04f01ac147e9179df43b2633c7fd831
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Mon Aug 22 21:35:31 2022 -0500
+
+    Ignorando archivos .exe
+
+commit dceb8fa5de6cdff1091b1752e45c2f699fd26ef6
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Mon Aug 22 18:10:29 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 089f965f9347552c0d6210138fe9a5fcc6b64f64
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Mon Aug 22 18:06:32 2022 -0500
+
+    Agregando Hola mundo en README
+
+commit 6c5908605876c7227d67b37278d74452563d5016
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Mon Aug 22 17:58:10 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 031f13f06d4f13d216ad2e8bb5c7f3d6f4597ae9
+Author: Christian Jesús Mino Egusquiza <christianjme@gmail.com>
+Date:   Mon Aug 22 17:54:06 2022 -0500
+
+    Primer commit
